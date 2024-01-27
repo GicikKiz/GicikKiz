@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://tr.pinterest.com/pin/796363146633375694/" width="500" height="420" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/564x/8d/ec/9c/8dec9c6bbc83571f6d61d4c213a67ca2.jpg" width="500" height="420" />
 
 ## Merhaba 👋🏻, Ben Derya
 - 💻 Bilgisayarlı Muhasebe Mezunuyum

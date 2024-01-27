@@ -2,8 +2,9 @@
 
 ## Merhaba 👋🏻, Ben Derya
 - 💻 Bilgisayarlı Muhasebe Mezunuyum
-- 🔭 Şu an bootstrapla admin paneli üzerinde çalışıyorum
+- 🔭 Şu an bootstrapla restoran sitesi yapıyorum
 - 🌱 Yeni dil olarak da javascript öğreniyorum.
+- 🌱 Tasarım için figma  öğreniyorum.
 - Öğrendiklerimi yaptığım sitelere ekliyorum
 - ⚡Boş zamanlarımda resim çizerim🎨, Romantik ve Polisiye kitapları okurum📚, Film izlemeyi severim📽️
 

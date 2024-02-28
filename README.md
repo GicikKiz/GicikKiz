@@ -2,7 +2,7 @@
 
 ## Merhaba 👋🏻, Ben Derya
 - 💻 Bilgisayarlı Muhasebe Mezunuyum
-- 🔭 Şu an bootstrapla spor salonu sitesi yapıyorum
+- 🔭 Şu an bootstrapla bir butik sayfası sitesi yapıyorum
 - Okuduğum kitaplar ve hikayeler üzerine kendime ait bir site tasarlıyorum
 - 🌱 Yeni dil olarak da javascript öğreniyorum.
 - 🌱 Tasarım için figma  öğreniyorum.

@@ -2,13 +2,12 @@
 
 ## Merhaba 👋🏻, Ben Derya
 - 💻 Bilgisayarlı Muhasebe Mezunuyum
-- 🔭 Şu an bootstrapla bir butik sayfası sitesi yapıyorum
+- 🔭 Şu an bootstrap ve js ile yazılan  kalori hesaplama  sayfası sitesi yapıyorum
 - Okuduğum kitaplar ve hikayeler üzerine kendime ait bir site tasarlıyorum
 - 🌱 Yeni dil olarak da javascript öğreniyorum.
 - 🌱 Tasarım için figma  öğreniyorum.
-- Hikaye yazıyorum
 - Öğrendiklerimi yaptığım sitelere ekliyorum
-- ⚡Boş zamanlarımda resim çizerim🎨, Romantik ve Polisiye kitapları okurum📚, Film izlemeyi severim📽️
+- ⚡Boş zamanlarımda resim çizerim🎨, kitap okurum📚, Film izlemeyi severim📽️
 
 
 ###  Languages :

@@ -2,7 +2,6 @@
 
 ## Merhaba 👋🏻, Ben Derya
 - 💻 Bilgisayarlı Muhasebe Mezunuyum
-- 🔭 Şu an bootstrap ve js ile yazılan  kalori hesaplama  sayfası sitesi yapıyorum
 - Okuduğum kitaplar ve hikayeler üzerine kendime ait bir site tasarlıyorum
 - 🌱 Yeni dil olarak da javascript öğreniyorum.
 - 🌱 Tasarım için figma  öğreniyorum.

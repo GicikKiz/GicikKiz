@@ -13,6 +13,4 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,)](https://skillicons.dev)
 
-### 🔧 Tools:
-[![My Skills](https://skillicons.dev/icons?i=ps,vscode,github)](https://skillicons.dev)
-<img src="https://static-00.iconduck.com/assets.00/sublime-text-icon-2048x2048-euqbr67p.png" width="50" height="50" />
+

@@ -1,4 +1,4 @@
-<img align="right" alt="images" src="https://tr.pinterest.com/pin/84583299249074587/" width="500" height="550" />
+<img align="right" alt="images" src="https://tr.pinterest.com/pin/24347654231854858" width="500" height="550" />
 
 ## Merhaba 👋🏻, Ben Derya
 - 💻 Bilgisayarlı Muhasebe Mezunuyum

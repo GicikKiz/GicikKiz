@@ -10,6 +10,6 @@
 
 
 ###  Languages :
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,figma,canva)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,figma)](https://skillicons.dev)
 
 

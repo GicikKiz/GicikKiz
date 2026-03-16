@@ -11,5 +11,5 @@
 
 ###  Languages :
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,figma)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=photoshop)](https://skillicons.dev)
 
